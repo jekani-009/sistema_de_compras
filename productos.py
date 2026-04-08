@@ -1,3 +1,4 @@
+#productos
 def agregar_producto(lista):
     nombre = input("Nombre: ")
     precio = float(input("Precio: "))
