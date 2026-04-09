@@ -4,6 +4,12 @@ Este proyecto es un programa en Python que permite gestionar una lista de compra
 
 ---
 
+## Integrantes
+- Jelkin Artuz
+- Keiner Cardenas
+
+---
+
 ## 📌 Características
 
 El sistema permite:
@@ -81,40 +87,6 @@ Este proyecto fue desarrollado usando Git y GitHub con trabajo en ramas:
 * Rama `feature-calculos`: cálculos y filtros
 
 Cada integrante trabajó en su propia rama y luego se integraron los cambios mediante Pull Requests.
-
----
-
-## 🔄 Flujo de trabajo con Git
-
-1. Crear una rama:
-
-```
-git checkout -b nombre-rama
-```
-
-2. Guardar cambios:
-
-```
-git add .
-git commit -m "Descripción del cambio"
-```
-
-3. Subir cambios:
-
-```
-git push origin nombre-rama
-```
-
-4. Crear Pull Request en GitHub
-
----
-
-## 🚀 Posibles mejoras
-
-* Guardar productos en archivos (.json o .txt)
-* Agregar validaciones de entrada
-* Mejorar la interfaz en consola
-* Crear interfaz gráfica
 
 ---
 
